@@ -1,0 +1,2 @@
+def intiate()
+    return "datatype"
